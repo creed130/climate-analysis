@@ -1,5 +1,7 @@
 """ Climate Analysis Tools """
 
+# TODO(creed): Add call to process rainfall
+
 import sys
 import temp_conversion
 import signal
